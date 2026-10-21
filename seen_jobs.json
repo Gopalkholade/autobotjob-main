@@ -11,6 +11,7 @@
     "gh_abnormalsecurity_8016920003",
     "gh_capco_7278632",
     "gh_capco_7533347",
+    "gh_capco_7725383",
     "gh_capco_7756668",
     "gh_capco_7865935",
     "gh_capco_7912205",
@@ -45,6 +46,7 @@
     "gh_capco_8288585",
     "gh_capco_8288656",
     "gh_capco_8300371",
+    "gh_capco_8305361",
     "gh_coinbase_7985187",
     "gh_coinbase_8165441",
     "gh_databricks_7955594002",
@@ -76,6 +78,7 @@
     "gh_karya_5415057008",
     "gh_karya_5416262008",
     "gh_karya_5444775008",
+    "gh_karya_5459428008",
     "gh_konovo_5153735008",
     "gh_konovo_5249666008",
     "gh_konovo_5423961008",
@@ -88,6 +91,7 @@
     "gh_okta_8056119",
     "gh_payoneer_7085678",
     "gh_payoneer_7988148",
+    "gh_payoneer_8255384",
     "gh_payoneer_8255852",
     "gh_payoneer_8273582",
     "gh_prodigal_5043755007",
@@ -1224,6 +1228,8 @@
     "sr_Datazymes_744000051989725",
     "sr_Nagarro1_744000152342626",
     "sr_WNSGlobalServices144_744000070036115",
-    "sr_WNSGlobalServices144_744000149278129"
+    "sr_WNSGlobalServices144_744000149278129",
+    "sr_WNSGlobalServices144_744000156714399",
+    "sr_wise_744000156717279"
   ]
 }
