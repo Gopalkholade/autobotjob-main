@@ -1,5 +1,5 @@
 {
-  "last_summary_sent_at": "2026-10-25T23:32:09.079626+05:30",
+  "last_summary_sent_at": "2026-10-28T22:15:35.975449+05:30",
   "seen_ids": [
     "gh_abnormalsecurity_7694596003",
     "gh_abnormalsecurity_7741028003",
@@ -48,9 +48,11 @@
     "gh_capco_8288656",
     "gh_capco_8300371",
     "gh_capco_8305361",
+    "gh_capco_8324382",
     "gh_coinbase_7985187",
     "gh_coinbase_8165441",
     "gh_commvault_5425593008",
+    "gh_commvault_5441176008",
     "gh_databricks_7955594002",
     "gh_databricks_8829029002",
     "gh_deepintent_5987259004",
@@ -115,6 +117,7 @@
     "gh_razorpaysoftwareprivatelimited_4747560005",
     "gh_singlestore_7863285",
     "gh_singlestore_8000966",
+    "gh_singlestore_8052299",
     "gh_singlestore_8212128",
     "gh_smartsheet_8232492",
     "gh_smartsheet_8317352",
