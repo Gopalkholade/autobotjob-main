@@ -1,5 +1,5 @@
 {
-  "last_summary_sent_at": "2026-10-28T22:15:35.975449+05:30",
+  "last_summary_sent_at": "2026-11-03T22:43:21.667530+05:30",
   "seen_ids": [
     "gh_abnormalsecurity_7694596003",
     "gh_abnormalsecurity_7741028003",
@@ -58,6 +58,7 @@
     "gh_capco_8336252",
     "gh_capco_8348883",
     "gh_capco_8348966",
+    "gh_capco_8349165",
     "gh_coinbase_7985187",
     "gh_coinbase_8165441",
     "gh_coinbase_8334161",
@@ -85,6 +86,7 @@
     "gh_gitlab_8864819002",
     "gh_gitlab_8867649002",
     "gh_gitlab_8894531002",
+    "gh_gitlab_8905402002",
     "gh_gitlab_8916232002",
     "gh_gitlab_8924923002",
     "gh_gleanwork_4006731005",
